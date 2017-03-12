@@ -9,4 +9,4 @@ iTerm2 evergreen color theme
   - choose `evergreen.itermcolors`
 
 ## Author
-@yulily100
+[@yulily100](https://twitter.com/yulily100)
